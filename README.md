@@ -13,4 +13,4 @@ This repo includes a handful of files.
 
 ## Picture Reference
 
-![picture of the remote](/Sharp%20RRMCG0301AWSA%20Remote%20-%20Photo)
+![picture of the remote](/Sharp%20RRMCG0301AWSA%20Remote%20-%20Photo.jpg)

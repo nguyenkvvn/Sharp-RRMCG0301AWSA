@@ -1,0 +1,41 @@
+﻿Row,Column,Remote Desc
+1,1,On/Standby
+2,1,CD ⏹
+2,2,CD ⏯
+3,1,MD ⏹
+3,2,MD ⏯
+4,1,Track
+4,2,Top Position
+4,3,Play Mode
+5,1,⏺ REC
+5,2,S-Sync ⏺ REC
+5,3,REC Mode
+6,1,Normal (CD ▶ MD Edit)
+6,2,High (CD ▶ MD Edit)
+7,1,⏮
+7,2,Loudness
+7,3,⏭
+8,1,Aux
+8,2,Enter
+8,3,Tuner (Band)
+9,1,<
+9,2,Display
+9,3,>
+10,1,Volume Down
+10,2,Volume Up
+11,1,Program
+11,2,1
+11,3,2
+11,4,3
+12,1,Clear
+12,2,1
+12,3,2
+12,4,3
+13,1,Name/TOC Edit
+13,2,7
+13,3,8
+13,4,9
+14,1,Timer/Delete
+14,2,Time/Symbol
+14,3,.10/0
+14,4,>10
